@@ -1,6 +1,9 @@
 # hello-gcp-cloudrun-flask
 hello-gcp-cloudrun-flask
 
+## Inspired by
+https://cloud.google.com/run/docs/quickstarts/build-and-deploy
+
 ## How to run
 
 ### Assumptions
