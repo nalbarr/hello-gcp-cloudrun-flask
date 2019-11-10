@@ -2,7 +2,8 @@
 
 export HOSTNAME=gcr.io
 export PROJECT=hello-cloudrun
+gcloud config set project $PROJECT
+
 export REGION=us-central1
 export IMAGE_TAG=hello-gcp-cloudrun-flask
-
-gcloud config set project hello-cloudrun
+export SERVICE_NAME=$IMAGE_TAG

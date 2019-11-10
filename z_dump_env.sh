@@ -13,3 +13,6 @@ echo ""
 
 echo "HOSTNAME: " $HOSTNAME
 echo ""
+
+echo "SERVICE_NAME: " $SERVICE_NAME
+echo ""
